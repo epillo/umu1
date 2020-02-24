@@ -1,0 +1,41 @@
+.main{
+    display: flex;
+    border-block-color: black;
+    
+    
+}
+.left{
+    background-color:dodgerblue;
+    background-image: url(index.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+
+}
+.right{
+    background-color:white;
+    padding-left: 40px;
+    
+    
+}
+.log{
+    width:400px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: dodgerblue;
+    
+}
+.gol{
+    width:400px;
+    height: 40px;
+    border-radius: 20px;
+
+}
+p{
+    text-align: left;
+}
+.car{
+    font-weight: bold;
+}
+
+
